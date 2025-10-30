@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Phuc Pham 👋
 
-<!--
-**codechodetoad/codechodetoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Denison University passionate about **distributed systems** and **high-performance computing**. I love building systems that can handle massive scale while maintaining sub-millisecond latency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring the intersection of low-latency systems, multi-threading, and algorithmic optimization. When I'm not optimizing for throughput, I'm diving into network programming and computer vision projects.
+
+## 💻 Technical Expertise
+
+**Languages:** C++ • Python • Java • C • JavaScript • SQL
+
+**Core Focus Areas:**
+- 🌐 Distributed Systems & Multi-threading
+- ⚡ Low-Latency & High-Frequency Trading Systems
+- 🔧 Performance Optimization & Algorithm Design
+- 📊 Data Infrastructure & Database Design
+- 👁️ Computer Vision & Network Programming
+
+**Technologies:** Git • Docker • Linux • SQLAlchemy • OpenCV • CMake • libpcap • spdlog
+
+## 🔨 What I Build
+
+- **Scalable distributed applications** processing 500K+ messages/second
+- **Real-time analytics platforms** with multi-tier architectures
+- **High-performance trading systems** with sub-millisecond latency
+- **Data pipelines** with continuous integration and 98%+ accuracy
+
+## 🌟 Current Interests
+
+- Lock-free data structures and concurrent programming
+- Message queuing systems and stream processing
+- Architectural tradeoffs in distributed environments
+- Zero-copy techniques and memory-mapped I/O
+
+## 📫 Let's Connect
+
+- 📧 Email: phamdop1@denison.edu
+- 💼 LinkedIn: [linkedin.com/in/phucpahmdoanhong](https://linkedin.com/in/phucpahmdoanhong)
+
+---
+
+*"Always optimizing, always building at scale."*
